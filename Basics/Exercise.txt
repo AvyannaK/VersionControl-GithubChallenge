@@ -1,0 +1,3 @@
+The terminal is esstentially used as a tool to navigate through your computer. It navigates through folders,files, uploads, and etc. It is controlled by different commands that result in actions. When you type out a command your computer will do the assigned action to that command. It provides a trackable pathway as you navigate your computer.
+Git is a tool on your local system to manage your source code history. GitHub is a hosting service for Git repositories (all project's files); GitHub is cloud-based.
+To share and keep files on a living cloud that we can all access from anywhere.
